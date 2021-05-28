@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/in-case-of-fire/static/css/main.eddacf97.chunk.css",
+    "main.js": "/in-case-of-fire/static/js/main.cc36f958.chunk.js",
+    "main.js.map": "/in-case-of-fire/static/js/main.cc36f958.chunk.js.map",
+    "runtime-main.js": "/in-case-of-fire/static/js/runtime-main.3b307316.js",
+    "runtime-main.js.map": "/in-case-of-fire/static/js/runtime-main.3b307316.js.map",
+    "static/js/2.e0e5f107.chunk.js": "/in-case-of-fire/static/js/2.e0e5f107.chunk.js",
+    "static/js/2.e0e5f107.chunk.js.map": "/in-case-of-fire/static/js/2.e0e5f107.chunk.js.map",
+    "static/js/3.bf36c8df.chunk.js": "/in-case-of-fire/static/js/3.bf36c8df.chunk.js",
+    "static/js/3.bf36c8df.chunk.js.map": "/in-case-of-fire/static/js/3.bf36c8df.chunk.js.map",
+    "index.html": "/in-case-of-fire/index.html",
+    "static/css/main.eddacf97.chunk.css.map": "/in-case-of-fire/static/css/main.eddacf97.chunk.css.map",
+    "static/js/2.e0e5f107.chunk.js.LICENSE.txt": "/in-case-of-fire/static/js/2.e0e5f107.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b307316.js",
+    "static/js/2.e0e5f107.chunk.js",
+    "static/css/main.eddacf97.chunk.css",
+    "static/js/main.cc36f958.chunk.js"
+  ]
+}
